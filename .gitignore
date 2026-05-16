@@ -1,0 +1,27 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# SSMS / SQL Server
+*.bak
+*.ldf
+*.mdf
+*.log
+*.dacpac
+*.suo
+bin/
+obj/
+
+# Temp files
+*.tmp
+~$*
+
+# OS thumbnails
+._*
